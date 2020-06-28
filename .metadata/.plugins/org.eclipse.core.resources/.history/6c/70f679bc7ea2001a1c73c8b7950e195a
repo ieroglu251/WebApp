@@ -1,0 +1,14 @@
+package cars;
+
+import org.springframework.stereotype.Component;
+
+import interfaces.Car;
+
+
+public class Corolla implements Car {
+
+	public String specs() {
+
+		return "sadan from toyota";
+	}
+}

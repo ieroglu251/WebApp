@@ -1,0 +1,13 @@
+package cars;
+
+import interfaces.Car;
+
+public class Corolla implements Car {
+
+	@Override
+	public String apecs() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
