@@ -11084,3 +11084,33 @@ java.net.URISyntaxException: Illegal character in authority at index 16: project
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:05.598
 !MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:51.095
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:51.104
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:51.110
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:51.114
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:51.123
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:53.578
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:53.585
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:53.591
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:53.595
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 14:39:53.603
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]

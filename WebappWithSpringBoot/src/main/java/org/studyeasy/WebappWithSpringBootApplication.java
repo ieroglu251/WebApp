@@ -10,6 +10,9 @@ public class WebappWithSpringBootApplication {
 		SpringApplication.run(WebappWithSpringBootApplication.class, args);
 		
 		//Loads the defaults
+		//starts the boot app
+		// class path scan
+		//starts local tomcat
 	}
 
 }
