@@ -10937,3 +10937,150 @@ java.net.URISyntaxException: Illegal character in authority at index 16: project
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:11:29.708
 !MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:44.184
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:44.193
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:44.200
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:44.205
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:44.224
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.405
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.412
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.420
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.425
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.465
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.631
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.642
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.649
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.656
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:49:46.668
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:50:18.756
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:50:18.761
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:50:18.766
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:50:18.774
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.032
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.040
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.047
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.054
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.061
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.306
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.317
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.326
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.333
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.344
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.753
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.762
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.768
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.772
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.780
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.857
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.863
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.869
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.874
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.883
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.924
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.933
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.942
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.947
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:03.954
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:05.573
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:05.579
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:05.585
+!MESSAGE buffering callback sts4.classpath.cfdrmTUe WebappWithSpringBoot false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:05.590
+!MESSAGE executing callback sts4.classpath.cfdrmTUe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-28 13:54:05.598
+!MESSAGE executing callback sts4.classpath.cfdrmTUe SUCCESS [done]
