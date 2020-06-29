@@ -41,4 +41,32 @@ for(Post post:posts) {
 	posts.add(listElement);
 		
 	}
+
+	public void updatePost(Post post, int id) {
+		
+		for(int i =0 ; i <posts.size(); i++) {
+			Post tempPost = posts.get(i);
+			
+			if(tempPost.getPostId() == id) {
+				posts.set(i, post);
+				return;
+				
+			}
+		}
+		
+	}
+
+	public void deletePost(int id) {
+		
+		for(int i =0 ; i <posts.size(); i++) {
+			Post tempPost = posts.get(i);
+			
+			if(tempPost.getPostId() == id) {
+				posts.remove(i);
+				return;
+				
+			}
+		}
+		
+	}
 }

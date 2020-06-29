@@ -34,4 +34,14 @@ public class PostsController {
 	public void addPost(@RequestBody Post listElement) {
 		new PostsServices().addPost(listElement);
 	}
+	
+	@RequestMapping(method = RequestMethod.PUT, value = "/posts/{id}")
+	public void updatePost(@RequestBody Post post,@PathVariable int id) {
+		new PostsServices().updatePost(post, id);
+	}
+	
+	@RequestMapping(method = RequestMethod.DELETE, value = "/posts/{id}")
+	public void deletePost(@PathVariable int id) {
+		new PostsServices().deletePost(id);
+	}
 }
