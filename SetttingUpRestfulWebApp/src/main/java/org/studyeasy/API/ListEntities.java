@@ -8,7 +8,7 @@ public class ListEntities {
 	
 	@RequestMapping("listBlogs")
 	public String listBlogs() {
-		return "listBlog";
+		return "list Blog";
 	}
 
 }
