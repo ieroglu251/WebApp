@@ -8,7 +8,7 @@ public class WebController {
 	
 	@RequestMapping("welcome")
 	public String welcome() {
-		return "Welcome html";
+		return "Welcome";
 	}
 	
 	

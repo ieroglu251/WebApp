@@ -25,13 +25,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="New.Spring5"/>
 		</list>
 		<list key="groupId">
-			<item value="New"/>
 		</list>
 		<list key="artifactId">
-			<item value="Spring5"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -47,10 +44,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="org.studyeasy.springBoot"/>
 		</list>
 		<list key="name">
+			<item value="Spring Boot starter"/>
 		</list>
 		<list key="artifactId">
+			<item value="starter-project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
